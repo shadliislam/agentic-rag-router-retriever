@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+sentence-transformers
+chromadb
+langchain-community
+tavily-python
+requests
+python-dotenv
+ipykernel
